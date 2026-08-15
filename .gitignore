@@ -1,0 +1,114 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+venv.bak/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Translations
+*.mo
+
+# Jupyter Notebook checkpoints and outputs
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Ignore large notebook outputs and lab checkpoints
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.svg
+**/*.pdf
+
+# Ignore dataset and raw data files (common names in this repo)
+01-Linear-Regression/data.csv
+01-Linear-Regression/USA_Housing.csv
+01-Linear-Regression/Housing_data.txt
+03-Logistic-Regression/ex2data1.txt
+03-Logistic-Regression/train_LoanPrediction.csv
+03-Logistic-Regression/test_LoanPrediction.csv
+10-K-Means/CC GENERAL.csv
+10-K-Means/Mall_Customers.csv
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Virtualenvs created by common tools
+env/
+venv/
+
+# Python egg
+*.egg-info/
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Ignore environment-specific local config
+.local_settings.py
+
+# Allow users to keep backups outside source control
+*.bak
+
+# Keep gitignore itself
+!.gitignore
