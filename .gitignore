@@ -64,15 +64,7 @@ coverage.xml
 **/*.svg
 **/*.pdf
 
-# Ignore dataset and raw data files (common names in this repo)
-01-Linear-Regression/data.csv
-01-Linear-Regression/USA_Housing.csv
-01-Linear-Regression/Housing_data.txt
-03-Logistic-Regression/ex2data1.txt
-03-Logistic-Regression/train_LoanPrediction.csv
-03-Logistic-Regression/test_LoanPrediction.csv
-10-K-Means/CC GENERAL.csv
-10-K-Means/Mall_Customers.csv
+
 
 # Logs and databases
 *.log
