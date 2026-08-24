@@ -1,0 +1,20 @@
+# Core scientific stack used across all labs
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+
+# Modelling
+scikit-learn>=1.4
+
+# Plotting
+matplotlib>=3.8
+seaborn>=0.13
+
+# Notebook environment
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.29
+
+# Deep-learning frameworks (05-Perceptron)
+tensorflow>=2.16
+torch>=2.2
