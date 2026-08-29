@@ -11,6 +11,7 @@ A collection of hands-on labs for the AI/ML course in LFConnect. This repository
 - 03-Logistic-Regression — classification examples and datasets
 - 04-K-Means-Clustering — k-means clustering examples and visualizations
 - 05-Perceptron — perceptron implemented from scratch, with scikit-learn, Keras, and PyTorch
+- 06-Mlp — MLP lab notebook and hand digit classification project with a Streamlit app
 
 Each lab folder contains at least one .ipynb notebook and sample data files (CSV/ TXT) used in the exercises.
 
@@ -29,8 +30,9 @@ Required Python packages are listed in `requirements.txt`:
 - scikit-learn
 - matplotlib
 - seaborn
-- tensorflow (only for 05-Perceptron)
-- torch (only for 05-Perceptron)
+- tensorflow (05-Perceptron, 06-Mlp)
+- streamlit (only for 06-Mlp/Project)
+- Pillow (only for 06-Mlp/Project)
 
 ---
 
