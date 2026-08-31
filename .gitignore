@@ -104,3 +104,5 @@ poetry.lock
 
 # Keep gitignore itself
 !.gitignore
+
+CIFAR10/
