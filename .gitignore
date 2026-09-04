@@ -106,3 +106,4 @@ poetry.lock
 !.gitignore
 
 CIFAR10/
+YOLOv1_Dataset/
