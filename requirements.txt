@@ -22,3 +22,8 @@ torch>=2.2
 # Streamlit app (06-Mlp/Project)
 streamlit>=1.35
 Pillow>=10.0
+
+# NLP (08-NLP)
+nltk>=3.8
+spacy>=3.7
+gensim>=4.3
