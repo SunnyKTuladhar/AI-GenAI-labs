@@ -12,7 +12,8 @@ A collection of hands-on labs for the AI/ML course in LFConnect. This repository
 - 04-K-Means-Clustering — k-means clustering examples and visualizations
 - 05-Perceptron — perceptron implemented from scratch, with scikit-learn, Keras, and PyTorch
 - 06-Mlp — MLP lab notebook, gradient descent comparison (batch/SGD/mini-batch), activation functions (linear vs ReLU), and a hand digit classification project with a Streamlit app (`Social_Network_Ads.csv` used by the gradient descent notebook)
-- 07-Computer Vision -Basic CNN using tensorflow and CIFAR 10 and Detection using YOLOv5
+- 07-Computer Vision — Basic CNN using TensorFlow and CIFAR-10, object detection using YOLOv5
+- 08-NLP — NLP fundamentals: tokenization, stemming, lemmatization, POS tagging, NER (NLP-01), BoW and TF-IDF vectorization (NLP-02), Word2Vec embeddings (NLP-03)
 
 Each lab folder contains at least one .ipynb notebook and sample data files (CSV/ TXT) used in the exercises.
 Some dataset downloads occur from within the notebook
@@ -35,6 +36,9 @@ Required Python packages are listed in `requirements.txt`:
 - tensorflow (05-Perceptron, 06-Mlp)
 - streamlit (only for 06-Mlp/Project)
 - Pillow (only for 06-Mlp/Project)
+- nltk (08-NLP)
+- spacy (08-NLP)
+- gensim (08-NLP)
 
 ---
 
