@@ -27,3 +27,11 @@ Pillow>=10.0
 nltk>=3.8
 spacy>=3.7
 gensim>=4.3
+
+# GenAI (09-GenAI)
+google-genai>=1.0
+strands-agents>=1.0
+gradio>=4.0
+pydantic>=2.8
+python-dotenv>=1.0
+tavily-python>=0.3

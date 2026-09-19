@@ -46,10 +46,12 @@ Some datasets are downloaded directly by the notebook.
 - Git
 
 The shared dependencies are defined in [`requirements.txt`](requirements.txt).
-The GenAI notebook also uses:
+The GenAI notebooks and chatbot also use:
 
 ```text
 google-genai
+strands-agents
+gradio
 pydantic
 python-dotenv
 tavily-python
@@ -111,8 +113,9 @@ tool sections. The notebook loads these values with `python-dotenv`.
 3. Run the cells in order.
 4. Keep data files alongside their notebooks when a lab requires local files.
 
-For `09-GenAI`, run the package-installation cells or install the four
-GenAI-specific packages listed above before running the notebook.
+For `09-GenAI`, run the package-installation cells or install the full
+GenAI-specific package set listed above before running the notebooks or the
+chatbot script.
 
 ## Contributing
 
