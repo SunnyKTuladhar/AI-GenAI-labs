@@ -1,0 +1,14 @@
+[project]
+name = "uniassist"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "deepeval>=4.2.3",
+    "fastmcp>=4.0.9",
+    "google-genai>=2.24.0",
+    "python-dotenv>=1.2.3",
+    "qdrant-client>=1.19.1",
+    "sentence-transformers>=6.1.0",
+]
