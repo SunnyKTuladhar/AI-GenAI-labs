@@ -1,0 +1,200 @@
+[
+  {
+    "id": "q01",
+    "question": "What is the minimum attendance I need to be allowed to sit for a final exam?",
+    "context": [
+      "Students enrolled at Everest International University (EIU) must maintain at least 80% attendance in each registered course to be eligible to sit for the final examination."
+    ],
+    "ideal_answer": "You need at least 80% attendance in each registered course to be eligible to sit for the final examination."
+  },
+  {
+    "id": "q02",
+    "question": "My overall semester attendance is 90%, but I only attended 75% of one course. Can I still take the final exam for that course?",
+    "context": [
+      "Attendance is calculated separately for each course. A student's overall semester attendance does not replace the attendance requirement for an individual course.",
+      "Students whose attendance falls below 80% may be prevented from taking the final examination unless they receive an approved attendance waiver."
+    ],
+    "ideal_answer": "Not automatically. Attendance is calculated per course, so your 90% overall attendance does not replace the 80% requirement for that course. With 75% in that course you may be prevented from taking its final exam unless you receive an approved attendance waiver."
+  },
+  {
+    "id": "q03",
+    "question": "How do I apply for an attendance waiver, and can a medical emergency qualify?",
+    "context": [
+      "Requests for an attendance waiver must be submitted to the department office with supporting documentation before the examination period begins.",
+      "Documented medical emergencies and serious family emergencies may be considered when reviewing an attendance waiver. Approval is not automatic and is subject to departmental review."
+    ],
+    "ideal_answer": "Submit the waiver request to the department office with supporting documentation before the examination period begins. Documented medical emergencies and serious family emergencies may be considered, but approval is not automatic and is subject to departmental review."
+  },
+  {
+    "id": "q04",
+    "question": "What is the lowest grade that counts as passing an undergraduate course?",
+    "context": [
+      "A student must receive at least a D grade to pass an undergraduate course. Some programs may impose higher minimum grades for prerequisite or major courses."
+    ],
+    "ideal_answer": "A D is the minimum passing grade for an undergraduate course, although some programs may require higher minimum grades for prerequisite or major courses."
+  },
+  {
+    "id": "q05",
+    "question": "What letter grade would I get for a final score of 82?",
+    "context": [
+      "- A: 90–100\n- B+: 85–89\n- B: 80–84\n- C+: 75–79\n- C: 70–74\n- D: 60–69\n- F: below 60"
+    ],
+    "ideal_answer": "A score of 82 falls in the 80–84 range, which is a B."
+  },
+  {
+    "id": "q06",
+    "question": "How long do I have to request a review if I think my final grade was calculated wrongly?",
+    "context": [
+      "A student who believes a final grade contains an administrative or calculation error may submit a grade review request to the department within seven calendar days after grades are published."
+    ],
+    "ideal_answer": "You must submit a grade review request to the department within seven calendar days after grades are published."
+  },
+  {
+    "id": "q07",
+    "question": "How many credits do I need to graduate?",
+    "context": [
+      "An undergraduate student must successfully complete at least 120 academic credits to graduate, unless the student's approved degree program specifies a different requirement."
+    ],
+    "ideal_answer": "At least 120 academic credits, unless your approved degree program specifies a different requirement."
+  },
+  {
+    "id": "q08",
+    "question": "What does the university check when I apply for graduation clearance?",
+    "context": [
+      "Students apply for graduation clearance through the academic administration office. The university checks completed credits, required courses, outstanding fees, library obligations, and other administrative requirements before approving clearance."
+    ],
+    "ideal_answer": "You apply through the academic administration office. The university checks your completed credits, required courses, outstanding fees, library obligations, and other administrative requirements before approving clearance."
+  },
+  {
+    "id": "q09",
+    "question": "Can unreturned or overdue library books get in the way of my graduation?",
+    "context": [
+      "The university checks completed credits, required courses, outstanding fees, library obligations, and other administrative requirements before approving clearance.",
+      "Students are responsible for returning borrowed materials by the due date. Borrowing privileges may be temporarily suspended when overdue items remain unresolved."
+    ],
+    "ideal_answer": "Yes, potentially. Library obligations are checked before graduation clearance is approved, and overdue items can also lead to suspended borrowing privileges, so unresolved overdue books should be dealt with before applying for clearance."
+  },
+  {
+    "id": "q10",
+    "question": "How early should I get to the exam room, and what happens if I'm very late?",
+    "context": [
+      "Students must arrive at the examination room at least 15 minutes before the scheduled starting time.",
+      "Students arriving more than 30 minutes after the scheduled start time may be refused entry unless the chief examination officer grants an exception."
+    ],
+    "ideal_answer": "Arrive at least 15 minutes before the scheduled start. If you arrive more than 30 minutes after the start time, you may be refused entry unless the chief examination officer grants an exception."
+  },
+  {
+    "id": "q11",
+    "question": "Am I allowed to keep my phone or smart watch with me during an exam?",
+    "context": [
+      "Electronic devices, including mobile phones and smart watches, must be switched off and stored as directed by examination supervisors unless the examination instructions explicitly permit them."
+    ],
+    "ideal_answer": "No, not unless the exam instructions explicitly permit it. Phones and smart watches must be switched off and stored as directed by the examination supervisors."
+  },
+  {
+    "id": "q12",
+    "question": "I lost my student ID card right before my exams. What should I do?",
+    "context": [
+      "Students must bring their valid university student ID card to an examination. The examination supervisor may require additional identification when necessary.",
+      "A student who loses an ID card should report the loss to the student administration office as soon as possible.",
+      "A replacement card may require payment of a replacement fee."
+    ],
+    "ideal_answer": "Report the loss to the student administration office as soon as possible. A valid student ID card must be brought to exams, and a replacement may require a replacement fee, so get it replaced before the exam. Supervisors may also ask for additional identification."
+  },
+  {
+    "id": "q13",
+    "question": "I missed my final exam because I was hospitalized. What can I do and how quickly do I need to act?",
+    "context": [
+      "A student who misses a final examination because of a documented medical emergency, serious family emergency, or another circumstance accepted by the university may request a deferred or makeup examination.",
+      "A makeup examination request should normally be submitted to the department within five working days of the missed examination.",
+      "The department reviews the request and supporting evidence. Submission of a request does not guarantee approval."
+    ],
+    "ideal_answer": "You may request a deferred or makeup examination for a documented medical emergency. Submit the request to the department, normally within five working days of the missed exam, with supporting documentation when requested. The department will review it, and submitting a request does not guarantee approval."
+  },
+  {
+    "id": "q14",
+    "question": "If my makeup exam is approved, will it have the same questions and format as the original?",
+    "context": [
+      "A student should not assume that the makeup examination will have the same questions or format as the original examination."
+    ],
+    "ideal_answer": "Not necessarily. You should not assume the makeup exam will have the same questions or format as the original. The department will tell you the date, location, and permitted materials."
+  },
+  {
+    "id": "q15",
+    "question": "How many books can I borrow from the library and for how long?",
+    "context": [
+      "Undergraduate students may borrow up to five books at one time.",
+      "Books are normally issued for 14 days. A renewal may be requested before the due date if no other user has reserved the item."
+    ],
+    "ideal_answer": "Undergraduate students may borrow up to five books at a time. Books are normally issued for 14 days, and you can request a renewal before the due date if no one else has reserved the item."
+  },
+  {
+    "id": "q16",
+    "question": "Is the library open on weekends?",
+    "context": [
+      "- Monday to Friday: 8:00 AM to 8:00 PM\n- Saturday: 9:00 AM to 5:00 PM\n- Sunday: Closed",
+      "Opening hours may be changed during public holidays and university-wide closures."
+    ],
+    "ideal_answer": "The library is open on Saturday from 9:00 AM to 5:00 PM and closed on Sunday. Hours may change during public holidays and university-wide closures."
+  },
+  {
+    "id": "q17",
+    "question": "If I get a scholarship this semester, will I keep it next semester?",
+    "context": [
+      "Receiving a scholarship in one semester does not automatically guarantee the scholarship in future semesters. Students must continue to meet the conditions of the relevant scholarship program.",
+      "Some merit-based scholarships require students to maintain a minimum semester or cumulative GPA. The required GPA is specified in the individual scholarship announcement."
+    ],
+    "ideal_answer": "Not automatically. You must keep meeting the conditions of your scholarship program, which for some merit-based scholarships includes maintaining a minimum semester or cumulative GPA specified in the scholarship announcement."
+  },
+  {
+    "id": "q18",
+    "question": "What documents do I need to submit when applying for an undergraduate program?",
+    "context": [
+      "Applicants must provide academic transcripts or certificates, a valid government-issued identification document, a recent photograph, and any additional documents specified by the program."
+    ],
+    "ideal_answer": "You need academic transcripts or certificates, a valid government-issued identification document, a recent photograph, and any additional documents specified by your chosen program."
+  },
+  {
+    "id": "q19",
+    "question": "What are the steps in the undergraduate application process?",
+    "context": [
+      "The standard application process is:\n\n1. Complete the online application form.\n2. Upload the required documents.\n3. Pay the application fee, if applicable.\n4. Wait for document verification.\n5. Complete any required entrance assessment or interview.\n6. Receive the admission decision."
+    ],
+    "ideal_answer": "Complete the online application form, upload the required documents, pay the application fee if applicable, wait for document verification, complete any required entrance assessment or interview, and then receive the admission decision."
+  },
+  {
+    "id": "q20",
+    "question": "Are there extra requirements for international applicants?",
+    "context": [
+      "International applicants may have additional requirements related to immigration, language proficiency, educational equivalency, and financial documentation."
+    ],
+    "ideal_answer": "Yes. International applicants may have additional requirements related to immigration, language proficiency, educational equivalency, and financial documentation."
+  },
+  {
+    "id": "q21",
+    "question": "If my leave is approved, do I still need to meet the attendance requirement?",
+    "context": [
+      "Approval of leave does not automatically remove the student's responsibility to meet attendance requirements.",
+      "Students enrolled at Everest International University (EIU) must maintain at least 80% attendance in each registered course to be eligible to sit for the final examination."
+    ],
+    "ideal_answer": "Yes. Approved leave does not automatically remove your responsibility to meet attendance requirements, so you still need at least 80% attendance in each course to sit the final exam, unless you receive an approved attendance waiver."
+  },
+  {
+    "id": "q22",
+    "question": "I'll be away for several weeks. Does that automatically count as a semester break?",
+    "context": [
+      "Students should not assume that an extended absence automatically results in a semester break or withdrawal.",
+      "A student who needs to take an approved semester break must submit the required request through student services and receive formal approval."
+    ],
+    "ideal_answer": "No. An extended absence does not automatically result in a semester break or withdrawal. Contact your academic department and student services, and submit a formal request through student services to receive approval for a semester break."
+  },
+  {
+    "id": "q23",
+    "question": "Can I lend my student ID to a friend to use the library?",
+    "context": [
+      "Students must not lend their student ID to another person. Misuse of an ID may be handled under university disciplinary procedures.",
+      "Students use their university student ID as their library identification."
+    ],
+    "ideal_answer": "No. Students must not lend their ID to another person, and misuse may be handled under university disciplinary procedures. Your ID is your personal library identification."
+  }
+]
