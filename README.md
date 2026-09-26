@@ -35,6 +35,7 @@ and generative AI concepts.
 | [`07-Computer-Vision`](07-Computer-Vision) | CNNs with TensorFlow, CIFAR-10, and YOLOv5 object detection |
 | [`08-NLP`](08-NLP) | Tokenization, stemming, lemmatization, POS tagging, NER, BoW, TF-IDF, and Word2Vec |
 | [`09-GenAI`](09-GenAI) | Gemini API, structured output, chat, function calling, and Tavily web search |
+| [`10-RAG`](10-RAG) | RAG with Qdrant and Gemini, the retriever as an MCP server, and a custom Gemini MCP client |
 
 Each lab folder contains one or more notebooks and, where needed, sample data.
 Some datasets are downloaded directly by the notebook.
